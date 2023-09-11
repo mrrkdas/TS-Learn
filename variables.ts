@@ -1,0 +1,2 @@
+let variableOne : string = "hello";
+
